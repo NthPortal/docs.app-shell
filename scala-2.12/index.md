@@ -1,4 +1,4 @@
-title: app-shell - Scala 2.12
+<head><title>app-shell - Scala 2.12</title></head>
 
 [latest](1.2.0)
 
