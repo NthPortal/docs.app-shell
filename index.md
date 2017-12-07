@@ -1,3 +1,5 @@
-<head><title>app-shell</title></head>
+# app-shell
+
+[<=](..)
 
 [Scala 2.12](scala-2.12)
