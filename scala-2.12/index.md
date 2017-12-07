@@ -1,6 +1,6 @@
-# app-shell - Scala 2.12
-
 [<=](..)
+
+# app-shell - Scala 2.12
 
 [latest](1.2.0)
 
